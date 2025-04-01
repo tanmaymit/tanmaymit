@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - **Databases:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=amazon-dynamodb&logoColor=white)  
 - **Visualization Tools:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)  
 
-### 📈 GitHub Stats  
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmaymit&show_icons=true&theme=radical)  
-
 ### 🌟 Featured Projects  
 
 #### 🔹 **[Amazon Alexa Review Analysis](https://github.com/tanmaymit/amazon_alexa_review_system)**  
